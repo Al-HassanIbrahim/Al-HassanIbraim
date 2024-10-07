@@ -1,9 +1,11 @@
--👋 Hi, I'm Al Hassan Ibrahim Mohamed.
--🎓 Computer Science Student | Faculty of Engineering.
+👋 Hi, I'm Al Hassan Ibrahim Mohamed.
 
--💻 .NET Developer with a focus on backend development.
-📚 Learning ASP.NET, EF, LINQ, MVC
+🎓 Computer Science Student | Faculty of Engineering.
 
-🚀 Passionate about problem-solving and clean code
+💻 .NET Developer with a focus on backend development.
 
-🛠 Skilled in C#, C++, Python, HTML, CSS
+📚 Learning ASP.NET, EF, LINQ, MVC.
+
+🚀 Passionate about problem-solving and clean code.
+
+🛠 Skilled in C#, C++, Python, HTML, CSS.
